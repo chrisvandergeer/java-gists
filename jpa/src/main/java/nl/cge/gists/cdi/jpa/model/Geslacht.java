@@ -1,4 +1,4 @@
-package nl.cge.gists.jpa.model;
+package nl.cge.gists.cdi.jpa.model;
 
 public enum Geslacht {
     M, V;

@@ -11,6 +11,7 @@
 
     <modules>
         <module>jpa</module>
+        <module>cdi-java-se</module>
     </modules>
 
 

@@ -5,8 +5,8 @@
     <persistence-unit name="gists-jpa-pu" transaction-type="RESOURCE_LOCAL">
         <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
 
-        <class>nl.cge.gists.jpa.model.Persoon</class>
-        <class>nl.cge.gists.jpa.model.Gezin</class>
+        <class>nl.cge.gists.cdi.jpa.model.Persoon</class>
+        <class>nl.cge.gists.cdi.jpa.model.Gezin</class>
 
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
 

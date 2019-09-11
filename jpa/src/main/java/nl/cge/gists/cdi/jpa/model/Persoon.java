@@ -1,4 +1,4 @@
-package nl.cge.gists.jpa.model;
+package nl.cge.gists.cdi.jpa.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

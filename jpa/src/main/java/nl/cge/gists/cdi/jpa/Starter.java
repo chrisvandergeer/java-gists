@@ -1,8 +1,8 @@
-package nl.cge.gists.jpa;
+package nl.cge.gists.cdi.jpa;
 
-import nl.cge.gists.jpa.model.Geslacht;
-import nl.cge.gists.jpa.model.Gezin;
-import nl.cge.gists.jpa.model.Persoon;
+import nl.cge.gists.cdi.jpa.model.Geslacht;
+import nl.cge.gists.cdi.jpa.model.Gezin;
+import nl.cge.gists.cdi.jpa.model.Persoon;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
